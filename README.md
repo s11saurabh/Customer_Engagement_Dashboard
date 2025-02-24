@@ -6,6 +6,19 @@ A full-stack application that provides actionable insights to drive customer ret
 ## Project Links
 - **GitHub Repository:** [Source code](https://github.com/s11saurabh/Customer_Engagement_Dashboard)
 - **Deployed Application:** [Live Site](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard)
+
+  <img width="1462" alt="image" src="https://github.com/user-attachments/assets/d2c2393d-21ef-4fa9-a654-179c20699204" />
+  <img width="1466" alt="image" src="https://github.com/user-attachments/assets/26c75e36-1b55-4812-b732-602cb5fc9b8e" />
+  <img width="1466" alt="image" src="https://github.com/user-attachments/assets/a43af8fe-8a57-4343-b19b-a9cc94ea4365" />
+  <img width="1467" alt="image" src="https://github.com/user-attachments/assets/1615829e-40e6-4984-98eb-635a9d48a2bd" />
+  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/872a9d99-46c6-45a7-b962-02459775d0c9" />
+  <img width="1464" alt="image" src="https://github.com/user-attachments/assets/6a756403-3d3b-4417-a89d-a60750ce78c0" />
+  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/c45bb4dd-3eb6-4e97-9e80-b793be8d9189" />
+
+
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
